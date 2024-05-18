@@ -20,6 +20,8 @@ En el paquete com.tuuniversidad.repository, se crea una clase para contener obje
 En el paquete com.tuuniversidad.service, creamos una clase para contener la lógica de negocio relacionada con los libros. Este servicio debería interactuar con el repositorio para obtener y manipular los datos de los libros.
 
 ### Captura del taller
+![image](https://github.com/Kss21ch/Web-API-de-Libro/assets/147552972/d6d5e94a-b93d-45a4-837d-faa4846cd7ec)
+
 ![image](https://github.com/Kss21ch/Web-API-de-Libro/assets/147552972/694db03a-c6f9-4d0c-9f16-3234c91ab16d)
 
 # Creación del controlador
