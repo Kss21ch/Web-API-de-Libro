@@ -30,8 +30,6 @@ En el paquete com.tuuniversidad.controllers, se crea una clase llamada LibroCont
 ### Captura del taller
 ![image](https://github.com/Kss21ch/Web-API-de-Libro/assets/147552972/c52ba900-110f-4b40-85e4-c021860fb00e)
 
-### Captura del taller
-![image](https://github.com/Kss21ch/Web-API-de-Libro/assets/147552972/71951c14-f8bf-470f-98b1-346cb9d4b3a8)
 
 
 
