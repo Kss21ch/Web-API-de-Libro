@@ -1,6 +1,6 @@
 # **Inicialización del proyecto con Spring Initializr**
 
-Para comenzar, se utiliza Spring Initializr para generar un nuevo proyecto Spring Boot. Aseguramos de incluir la dependencia Web para habilitar el soporte web en tu aplicación.
+Para comenzar, se utiliza Spring Initializr para generar un nuevo proyecto Spring Boot. Aseguramos de incluir la dependencia Web para habilitar el soporte web en la aplicación.
 
 ### Ss
 ![image](https://github.com/Kss21ch/Web-API-de-Libro/assets/147552972/9ac296bc-dc99-4280-8687-fc740fa9f7f7)
